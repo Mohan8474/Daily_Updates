@@ -1,0 +1,11 @@
+1. Annalect Report Builder Project
+I have through the code and tried to understand it.
+I have cloned the project
+
+2. Wsl in VScode
+I have integrated wsl with VScode and tried to run a simple code using ubuntu in VScode
+
+
+3.Flask Session
+Read documentation on Flask and tried to work on it ( i haven't understand it completely)
+
