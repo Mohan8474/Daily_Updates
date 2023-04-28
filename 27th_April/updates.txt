@@ -1,0 +1,8 @@
+1. Annalect Report builder project
+Going through the code and trying to understand it.
+
+2. Migrations in Flask
+Went through Flask-Migrate
+what are Migrations.
+why to use migrations.
+And implemented migrations using old flask project.
