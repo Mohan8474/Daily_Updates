@@ -1,0 +1,5 @@
+Read about proxyfix
+
+tried to understand the code
+
+Installed all the requirements for the code to run
