@@ -1,0 +1,6 @@
+1. Worked on pgadmin and psql.
+created database and tables in both pgadmin and psql terminal
+
+2. Read about WSGI
+
+3. read about JSON Encoder
