@@ -1,0 +1,5 @@
+Worked on upsert
+
+Have gone through utils.py, config.py
+
+trying to make those apis work 

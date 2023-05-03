@@ -55,9 +55,6 @@ class BikesandcarsModel(db.Model):
     def __repr__(self):
         return f"<Car {self.name}>"
 
-
-    
-
 if __name__ == "__main__":
     db.create_all()
     db.session.commit()
