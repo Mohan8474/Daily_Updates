@@ -1,0 +1,3 @@
+Tried to understand the code 
+Worked on Apis
+went through Pagination
